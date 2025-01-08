@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Notion',
 			icon: 'notebook-pen',
-			link: 'https://notion.com',
+			link: 'https://www.notion.so/d3a586f1f0084fdaba773f4045d510d2',
 		},
 		{
 			id: '5',
