@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Faculdade',
+			icon: 'graduation-cap',
+			link: 'https://sigarra.up.pt/flup/pt/web_page.inicial',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Notion',
+			icon: 'notebook-pen',
+			link: 'https://notion.com',
 		},
 		{
 			id: '5',
